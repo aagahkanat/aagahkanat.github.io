@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 /* Desktop Navigation */
 .nav-menu {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-left: 25px;
 }
 
@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 35px;
+    font-size: 30px;
     line-height: 36px;
   }
   #hero h2 {
