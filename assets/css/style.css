@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero p {
   color: #fff;
   margin-bottom: 50px;
-  font-size: 26px;
+  font-size: 16px;
   font-family: "Poppins", sans-serif;
   padding-left: 30px;
 }
@@ -265,9 +265,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 768px) {
+  #hero{
+    padding-left: 40%;
+  }
   #hero h1 {
-    font-size: 30px;
-    line-height: 36px;
+    font-size: 20px;
+    line-height: 16px;
   }
   #hero h2 {
     font-size: 18px;
